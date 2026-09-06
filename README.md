@@ -18,7 +18,7 @@ INSTALLATION
 After you install all the requirements needed for this model, you need to
 change the model path — it depends on what folder you are using, so update
 the MODEL_PATH variable in app.py to point to wherever your best.pt file
-is actually located on your machine.
+is actually located on your device.
 
 RUNNING THE APP
 ----------------
